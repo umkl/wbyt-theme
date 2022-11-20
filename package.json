@@ -1,0 +1,34 @@
+{
+    "name": "wbyt-theme",
+    "displayName": "Waterbyte Theme",
+    "description": "A vscode theme based on the Waterbyte color palette.",
+    "publisher": "Waterbyte",
+    "version": "0.0.1",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git"
+    },
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Waterbyte Theme Light",
+                "uiTheme": "hc-light",
+                "path": "./themes/wbyt-theme-light-color-theme.json"
+            },
+            {
+                "label": "Waterbyte Theme Dark",
+                "uiTheme": "hc-black",
+                "path": "./themes/wbyt-theme-dark-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "minimist": "^1.2.7"
+    }
+}
