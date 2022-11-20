@@ -2,11 +2,16 @@
     "name": "wbyt-theme",
     "displayName": "Waterbyte Theme",
     "description": "A vscode theme based on the Waterbyte color palette.",
-    "publisher": "Waterbyte",
+    "publisher": "ungarmichael",
     "version": "0.0.1",
     "icon": "logo.png",
     "repository": {
-        "type": "git"
+        "type": "git",
+        "url": "https://github.com/ungarmichael/wbyt-theme"
+    },
+    "galleryBanner": {
+        "color": "#11131C",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.73.0"
