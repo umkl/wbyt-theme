@@ -3,7 +3,7 @@
     "displayName": "Waterbyte Theme",
     "description": "A vscode theme based on the Waterbyte color palette.",
     "publisher": "ungarmichael",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "logo.png",
     "repository": {
         "type": "git",
@@ -32,8 +32,5 @@
                 "path": "./themes/wbyt-theme-dark-color-theme.json"
             }
         ]
-    },
-    "dependencies": {
-        "minimist": "^1.2.7"
     }
 }

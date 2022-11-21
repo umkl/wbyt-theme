@@ -624,6 +624,8 @@
         "editorIndentGuide.background": "#B0BEC570",
         "editorIndentGuide.activeBackground": "#B0BEC5",
         "editorGroupHeader.tabsBackground": "#f9faff",
+        "tab.activeBorderTop": "#ffffff00",
+        "tab.hoverBorder": "#ffffff00",
         "editorGroup.border": "#00000020",
         "editorGutter.modifiedBackground": "#6182B860",
         "editorGutter.addedBackground": "#91B85960",
