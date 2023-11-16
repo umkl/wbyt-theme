@@ -3,7 +3,7 @@
 	"displayName": "Waterbyte Theme",
 	"description": "A vscode theme based on the Waterbyte color palette.",
 	"publisher": "ungarmichael",
-	"version": "0.1.3",
+	"version": "0.2.3",
 	"icon": "logo.png",
 	"repository": {
 		"type": "git",
@@ -39,7 +39,12 @@
 			{
 				"label": "Waterbyte - Nokabadze Coder Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/nokabadze-coder-dark-color-theme"
+				"path": "./themes/nokabadze-coder-dark-color-theme.json"
+			},
+			{
+				"label": "Miksls Finest Color Selection",
+				"uiTheme": "vs-dark",
+				"path": "./themes/miksls-fav-color-theme.json"
 			}
 		]
 	}

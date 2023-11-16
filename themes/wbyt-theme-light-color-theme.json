@@ -213,7 +213,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#FFFFFF",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -373,22 +372,7 @@
 				"foreground": "#E53935"
 			}
 		},
-		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
-			"scope": [
-				"string",
-				"constant.other.symbol",
-				"constant.other.key",
-				"entity.other.inherited-class",
-				"markup.heading",
-				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"fontStyle": "normal",
-				"foreground": "#91B859"
-			}
-		},
+
 		{
 			"name": "Class, Support",
 			"scope": [
@@ -655,13 +639,7 @@
 				"foreground": "#E7EAEC"
 			}
 		},
-		{
-			"name": "Markdown - Line Break",
-			"scope": ["text.html.markdown meta.dummy.line-break"],
-			"settings": {
-				"foreground": ""
-			}
-		},
+
 		{
 			"name": "Markdown - Heading",
 			"scope": [
@@ -712,14 +690,7 @@
 				"foreground": "#F76D47"
 			}
 		},
-		{
-			"name": "Markup - Strike",
-			"scope": ["markup.strike"],
-			"settings": {
-				"fontStyle": "strike",
-				"foreground": "#795515"
-			}
-		},
+
 		{
 			"name": "Markdown - Blockquote",
 			"scope": ["markup.quote punctuation.definition.blockquote.markdown"],
@@ -727,14 +698,7 @@
 				"foreground": "#E7EAEC"
 			}
 		},
-		{
-			"name": "Markup - Quote",
-			"scope": ["markup.quote"],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": ""
-			}
-		},
+
 		{
 			"name": "Markdown - Link",
 			"scope": ["string.other.link.title.markdown"],
