@@ -2,7 +2,7 @@
 
 ## What is Waterbyte?
 
-Waterbyte is a coding club from Austria.
+Waterbyte is a coding club
 
 ## What themes?
 
